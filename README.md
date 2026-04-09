@@ -1,3 +1,35 @@
+<h1 align="center">👨‍💻 Ahmed Zahar</h1>
+<h3 align="center">Full-Stack Engineer | AI Automation | SaaS Builder</h3>
+
+<p align="center">
+🚀 I build scalable web apps, AI-powered solutions, and modern SaaS platforms.
+</p>
+
+---
+
+## 🌐 My Projects
+
+🔗 **Portfolio**  
+👉 https://zahar-ahmed1.github.io  
+
+🧠 **Coaching Platform**  
+👉 https://zahar-ahmed1.github.io/coaching-test  
+
+🛍️ **E-commerce (Glasses Store)**  
+👉 https://zahar-ahmed1.github.io/vitrine-test-mobile  
+
+---
+
+## 💼 What I Do
+
+✔️ Build modern web applications (Angular, React, Next.js)  
+✔️ Develop secure backend APIs (Spring Boot, Node.js)  
+✔️ Design scalable SaaS platforms  
+✔️ Create AI automation workflows (n8n, AI Agents)  
+✔️ Deploy apps with Docker, Linux & Cloud  
+
+---
+
 # 💻 Tech Stack:
 
 ### 🚀 Languages
@@ -61,3 +93,27 @@
 ### 🎨 Design & Others
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Zahar-Ahmed1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Zahar-Ahmed1&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahar-Ahmed1&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## 📩 Contact Me
+
+📧 Email: your-email@example.com  
+💼 LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+## ⚡ Fun Fact
+
+🚀 I build and debug systems faster than most people write requirements.
