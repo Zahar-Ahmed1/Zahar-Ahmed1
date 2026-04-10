@@ -119,18 +119,16 @@ https://zahar-ahmed1.github.io/vitrine-test-mobile
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zahar-Ahmed1&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=Zahar-Ahmed1&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahar-Ahmed1&layout=compact&theme=radical" />
 </p>
 
-
 ## 📩 Contact Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
+📧 Email: ahmed.zahar2000@icloud.com  
+💼 LinkedIn: [https://linkedin.com/in/your-profile  ](https://www.linkedin.com/in/ahmed-zahar-47431a241/)
 
 ---
 
